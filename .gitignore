@@ -1,0 +1,6 @@
+obj
+*.*
+!*.cs
+!*.exe
+!*.gitignore
+!netcoreapp3.1
